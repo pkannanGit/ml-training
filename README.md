@@ -18,6 +18,7 @@ This project explores supervised machine learning techniques to predict credit r
 ## 📂 Repository Structure
 
 college_mlprj/
+
 ├── Data_Dictionary.csv
 
 ├── Train_Dataset.csv
@@ -26,8 +27,8 @@ college_mlprj/
 
 └── README.md
 
-Future Work:
+**Future Work:**
 
 Feature engineering (e.g., income-to-loan ratio)
 
-Deploy model as a web API using Flask or FastAPI
+Deploy model as a web API
