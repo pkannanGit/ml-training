@@ -19,8 +19,11 @@ This project explores supervised machine learning techniques to predict credit r
 
 college_mlprj/
 ├── Data_Dictionary.csv
+
 ├── Train_Dataset.csv
+
 ├── training.ipynb # main Jupyter notebook with all code
+
 └── README.md
 
 Future Work:
