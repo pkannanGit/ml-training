@@ -9,5 +9,6 @@ env/
 venv/
 
 # Data / misc
+*.csv
 *.h5
 *.log
